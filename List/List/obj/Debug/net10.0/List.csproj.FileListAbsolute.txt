@@ -1,0 +1,15 @@
+C:\Learning\C#\Advanced C#\List\List\bin\Debug\net10.0\List.exe
+C:\Learning\C#\Advanced C#\List\List\bin\Debug\net10.0\List.deps.json
+C:\Learning\C#\Advanced C#\List\List\bin\Debug\net10.0\List.runtimeconfig.json
+C:\Learning\C#\Advanced C#\List\List\bin\Debug\net10.0\List.dll
+C:\Learning\C#\Advanced C#\List\List\bin\Debug\net10.0\List.pdb
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.AssemblyInfoInputs.cache
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.AssemblyInfo.cs
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.csproj.CoreCompileInputs.cache
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.sourcelink.json
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.dll
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\refint\List.dll
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.pdb
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\List.genruntimeconfig.cache
+C:\Learning\C#\Advanced C#\List\List\obj\Debug\net10.0\ref\List.dll

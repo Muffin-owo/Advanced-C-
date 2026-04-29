@@ -1,0 +1,15 @@
+C:\Learning\C#\Advanced C#\Generics\practice\bin\Debug\net10.0\practice.exe
+C:\Learning\C#\Advanced C#\Generics\practice\bin\Debug\net10.0\practice.deps.json
+C:\Learning\C#\Advanced C#\Generics\practice\bin\Debug\net10.0\practice.runtimeconfig.json
+C:\Learning\C#\Advanced C#\Generics\practice\bin\Debug\net10.0\practice.dll
+C:\Learning\C#\Advanced C#\Generics\practice\bin\Debug\net10.0\practice.pdb
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.AssemblyInfoInputs.cache
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.AssemblyInfo.cs
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.csproj.CoreCompileInputs.cache
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.sourcelink.json
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.dll
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\refint\practice.dll
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.pdb
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\practice.genruntimeconfig.cache
+C:\Learning\C#\Advanced C#\Generics\practice\obj\Debug\net10.0\ref\practice.dll
